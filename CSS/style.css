@@ -16,3 +16,8 @@ a {
 img {
     max-width: 100%;
 }
+
+/*レイアウト*/
+.align-center {
+    text-align: center;
+}
