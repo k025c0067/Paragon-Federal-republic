@@ -21,3 +21,11 @@ img {
 .align-center {
     text-align: center;
 }
+
+/*ヘッダー*/
+.page-header {
+    padding-top: 3rem;
+}
+.logo {
+    width: 400px;
+}
