@@ -29,7 +29,8 @@ img {
 }
 
 .font-japanese {
-    font-family: "Noto+Serif+JP";
+    font-family: "Noto+Serif+JP:wght@200..900";
+    font-weight: 500;
 }
 
 .page-title {
@@ -38,7 +39,6 @@ img {
     text-align: center;
     margin-top: 1.2rem;
     line-height: 2;
-
 }
 /*ヘッダー*/
 .page-header {
