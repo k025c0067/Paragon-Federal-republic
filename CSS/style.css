@@ -99,6 +99,9 @@ img {
 .cover-home {
     background-color: black;
 }
+.sub-cover {
+    background-color: black;
+}
 
 .page-about {
     font-size: x-large;
@@ -126,7 +129,7 @@ img {
     font-size: 20px;
     padding: 0.5rem;
 }
-.info td {
+.info td {  
     padding: 1rem 0;
     font-size: 18px;
      white-space: nowrap;
@@ -145,4 +148,3 @@ img {
     padding: 1.6rem 0;
     margin-top: 1rem;
 }
-
