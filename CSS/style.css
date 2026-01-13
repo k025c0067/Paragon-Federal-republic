@@ -156,10 +156,17 @@ img {
 .post-title {
     font-weight: 2rem;
     margin-bottom: 2rem;
-    padding-top: 1rem;
+    padding-top: 0.4rem;
+    text-align: center;
+    text-decoration: underline;
+}
+.post-title2 {
+    font-weight: 2rem;
+    margin-bottom: 2rem;
+    padding-top: 0.4rem;
     text-align: center;
 }
-.post-title a {
+.post-title2 a {
     color: #383;
 }
 
