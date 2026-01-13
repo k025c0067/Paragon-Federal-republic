@@ -155,7 +155,7 @@ img {
 }
 .post-title {
     font-weight: 2rem;
-    margin-bottom: 1.25rem;
+    margin-bottom: 2rem;
     padding-top: 1rem;
     text-align: center;
 }
@@ -163,7 +163,6 @@ img {
     color: #383;
 }
 
-.post2 {
-    margin-bottom: 2rem;
+.wrapper {
     background-color: black;
 }
