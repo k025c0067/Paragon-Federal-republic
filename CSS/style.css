@@ -162,3 +162,8 @@ img {
 .post-title a {
     color: #383;
 }
+
+.post2 {
+    margin-bottom: 2rem;
+    background-color: black;
+}
