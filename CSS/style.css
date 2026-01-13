@@ -159,3 +159,6 @@ img {
     padding-top: 1rem;
     text-align: center;
 }
+.post-title a {
+    color: #383;
+}
